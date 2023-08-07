@@ -5,6 +5,9 @@ The Currency Converter is a simple and user-friendly tool that allows users to c
 Features
 
 Convert between a wide range of currencies.
+
 Real-time exchange rate updates using a reliable API.
+
 User-friendly interface for input and output.
+
 Responsive design, suitable for various devices.
